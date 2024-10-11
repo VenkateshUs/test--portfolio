@@ -1,0 +1,36 @@
+Header
+Name
+role
+img
+
+Social Media Links
+LinkedIn
+
+section
+intro
+
+section
+skills - ol
+
+section -
+workexper
+role
+img
+
+projects
+git hub links --
+links you can give
+
+
+
+section 4
+eductation 
+univ
+desc
+img
+
+
+Footer
+contact
+phone
+copy right
